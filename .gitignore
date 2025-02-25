@@ -1,0 +1,94 @@
+# Compiled class file
+*.class
+
+# Logs
+*.log
+/logs
+*.stackdump
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME).mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# NetBeans temporary files
+nbproject/private/
+build/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# IntelliJ IDEA project files.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse project files.settings/.classpath.project
+
+# Maven target directory
+/target/
+
+# Gradle build files.gradle
+/build/
+
+# OS Specific files #.DS_Store
+Thumbs.db
+
+# Intellij *.swp files
+*.swp
+
+# Intellij local history folder.history/
+
+# Code coverage related files
+coverage.ec
+*.em
+*.ic
+
+# Jacoco related files
+*.exec
+
+# Spotbugs related files
+spotbugsXml.xml
+spotbugsHtml.html
+
+# Checkstyle related files
+checkstyle-errors.xml
+
+# Findbugs related files
+findbugs.xml
+
+# Dependency check
+dependency-check-report.xml
+dependency-check-report.html
+
+# Maven wrapper.mvn/wrapper/maven-wrapper.jar.mvn/wrapper/maven-wrapper.properties!/.mvn/wrapper/MavenWrapperDownloader.java # Important to keep this file
+
+# Node Modules (if you have frontend within your project)
+node_modules/
+
+# Yarn files (if you use yarn)
+yarn-error.log
+
+# Temporary files from editors
+*.bak
+*~.tmp
+*.tmp
+*.temp
+*.cache
+
+# OS generated files.AppleDouble
+
+# vscode
+.vscode
